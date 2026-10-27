@@ -1,0 +1,8 @@
+name: Webby
+repo: https://github.com/KadirYurekturk/webby-opencode
+tagline: A pixel spider desktop companion for OpenCode v2
+description: >-
+  An unofficial desktop mascot that reacts to OpenCode v2 session activity,
+  permission requests, and completion. It can animate short words from assistant
+  responses. Windows is the primary target; Ubuntu has a Tk/X11 implementation
+  and macOS support is experimental.
